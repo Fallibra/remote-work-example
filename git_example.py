@@ -1,5 +1,6 @@
 #!/usr/bin/env python3
 
+import numpy as np
 def multiply_numbers(a, b, c) : 
     """
     Multiply all three numbers
